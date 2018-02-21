@@ -1,4 +1,4 @@
 
 def test_git()
-    puts "Git tested..."
+    print "Git tested...\n"
 end
