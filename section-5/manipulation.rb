@@ -1,0 +1,3 @@
+x = "string"
+
+puts x
